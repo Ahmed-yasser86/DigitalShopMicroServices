@@ -1,0 +1,36 @@
+[
+  {
+    "ContainingType": "catalog.API.Products.CreateProduct.CreateProductEndPoints\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutes\u003Eb__0_0",
+    "RelativePath": "Products",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "catalog.API.Products.CreateProduct.CreateProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "catalog.API.Products.CreateProduct.CreateProductRespones",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "CreateProduct",
+    "Description": "Create Product",
+    "Summary": "Craete Product"
+  }
+]

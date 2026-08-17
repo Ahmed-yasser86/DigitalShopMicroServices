@@ -1,0 +1,28 @@
+name: dockercompose16664578200368897668
+services:
+  catalogdb:
+    container_name: catalogdb
+    environment:
+      POSTGRES_DB: CatalogDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:16-alpine
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_catalog
+        target: /var/lib/postgresql/data
+        volume: {}
+networks:
+  default:
+    name: dockercompose16664578200368897668_default
+volumes:
+  postgres_catalog:
+    name: dockercompose16664578200368897668_postgres_catalog
