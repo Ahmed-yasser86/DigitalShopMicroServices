@@ -91,3 +91,14 @@ C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\
 C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\catalog.API.pdb
 C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\catalog.API.genruntimeconfig.cache
 C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\ref\catalog.API.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\obj\Debug\net9.0\catalog.API.sourcelink.json
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\HealthChecks.NpgSql.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\HealthChecks.UI.Client.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\HealthChecks.UI.Core.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\eshop\DigitalMarket\services\catalog\catalog.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

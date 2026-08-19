@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/rA/PCTjjLM=",
+  "dgSpecHash": "3soKUdzZwwM=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\eshop\\DigitalMarket\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\mapster\\10.0.11\\mapster.10.0.11.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\mapster.core\\10.0.11\\mapster.core.10.0.11.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",

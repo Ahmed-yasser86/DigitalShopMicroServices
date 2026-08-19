@@ -9,16 +9,15 @@ namespace catalog.API.Products.GetProductId
 
     public record GetProductByIdQuery(Guid id) : IQuery<GetProductByIdResult>;
     public record GetProductByIdResult(Product Product);
-    public class GetProductByIdQueryHandler(IDocumentSession session, ILogger<GetProductByIdQueryHandler> logger) : IqueryHandler<GetProductByIdQuery, GetProductByIdResult>
+    public class GetProductByIdQueryHandler(IDocumentSession session) : IqueryHandler<GetProductByIdQuery, GetProductByIdResult>
     {
         public async Task<GetProductByIdResult> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
         {
-            logger.LogInformation("GetProductByIdQueryHandler was triggered with {@Query}", request);
 
             var result = await session.LoadAsync<Product>(request.id,cancellationToken);
             if(result is null)
             {
-                throw new ProductNotFoundExcption();
+                throw new ProductNotFoundExcption(request.id);
             }
             return new GetProductByIdResult(result);
         }

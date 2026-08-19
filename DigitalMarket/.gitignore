@@ -1,0 +1,30 @@
+## Visual Studio / Cache / Temporary Files
+.vs/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Build Outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+
+## Docker / Compose outputs
+.dockerignore
+
+## Test / Coverage Results
+TestResults/
+*.coverage
+*.coveragexml
+
+## OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

@@ -10,3 +10,4 @@ C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
+C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.sourcelink.json
