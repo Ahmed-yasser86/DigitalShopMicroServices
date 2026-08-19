@@ -18,6 +18,7 @@ namespace Basket.API.Basket.DeleteBasket
 
                 var response = result.Adapt<DeleteBasketResponse>();
 
+
                 return Results.Ok(response);
             }).WithName("DeleteProduct")
         .Produces<DeleteBasketResponse>(StatusCodes.Status200OK)

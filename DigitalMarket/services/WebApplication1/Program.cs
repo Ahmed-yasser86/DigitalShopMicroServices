@@ -43,8 +43,10 @@ builder.Services.AddMarten(opts =>
 builder.Services.AddValidatorsFromAssembly(typeof(Program).Assembly);
 builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
-//builder.Services.AddHealthChecks().AddNpgSql(builder.Configuration.GetConnectionString("Database")!);
-
+builder.Services.AddHealthChecks()
+    .AddNpgSql(builder.Configuration.GetConnectionString("Database")!)
+    .AddRedis(builder.Configuration.GetConnectionString("Redis")!);
+builder.Services.Decorate<IBasketRepository, ChachedBasketRepository>();
 builder.Services.AddScoped<IBasketRepository,BasketRepository>();
 var app = builder.Build();
 
@@ -54,7 +56,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Catalog.API v1");
+        c.SwaggerEndpoint("/swagger/v2/swagger.json", "basket.API v2");
     });
 }
 
