@@ -12,6 +12,19 @@ services:
     volumes:
       - postgres_catalog:/var/lib/postgresql/data
 
+  Basketgdb:
+    image: postgres:16-alpine
+    container_name: Basketgdb
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=CatalogDb
+    ports:
+      - "5423:5432"
+    volumes:
+      - postgres_Basket:/var/lib/postgresql/data
+
   catalog.api:
     image: catalog.api:latest 
     environment:

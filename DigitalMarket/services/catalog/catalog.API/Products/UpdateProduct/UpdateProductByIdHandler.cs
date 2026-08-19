@@ -5,6 +5,7 @@ using catalog.API.Products.GetProductId;
 using JasperFx.Events.Daemon;
 using Marten;
 using Marten.Linq.QueryHandlers;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 namespace catalog.API.Products.UpdateProduct
 {
@@ -32,9 +33,10 @@ namespace catalog.API.Products.UpdateProduct
             product.Price = command.Price;
 
             session.Update(product);
-            await session.SaveChangesAsync(cancellationToken);
+           await session.SaveChangesAsync(cancellationToken);
 
-            return new UpdateProductByIdResult(true);
+            bool IsTrue = true;
+            return new UpdateProductByIdResult(IsTrue);
         }
     }
 }
