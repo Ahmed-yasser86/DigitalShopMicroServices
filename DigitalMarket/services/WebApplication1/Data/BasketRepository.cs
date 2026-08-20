@@ -1,4 +1,5 @@
-﻿using Basket.API.Models;
+﻿using Basket.API.Exceptions;
+using Basket.API.Models;
 using Marten;
 
 namespace Basket.API.Data;
