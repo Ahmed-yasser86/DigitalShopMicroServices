@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Discount.Grpc.Services
 {
-    public class DiscountService(DiscountContext dbContext, ILogger logger) : DiscountProtoService.DiscountProtoServiceBase
+    public class DiscountService(DiscountContext dbContext, ILogger<DiscountService> logger) : DiscountProtoService.DiscountProtoServiceBase
     {
 
         public override async Task<CouponModel> CreateDiscount(CreateDiscountRequest request, ServerCallContext context)
