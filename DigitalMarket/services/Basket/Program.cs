@@ -3,6 +3,7 @@ using Basket.API.Models;
 using BuildingBlocks.Behavior;
 using BuildingBlocks.Exceptions.Handler;
 using Carter;
+using Discount.Grpc;
 using FluentValidation;
 using HealthChecks.UI.Client;
 using Marten;
@@ -46,9 +47,25 @@ builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 builder.Services.AddHealthChecks()
     .AddNpgSql(builder.Configuration.GetConnectionString("Database")!)
     .AddRedis(builder.Configuration.GetConnectionString("Redis")!);
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 builder.Services.Decorate<IBasketRepository, ChachedBasketRepository>();
-builder.Services.AddScoped<IBasketRepository,BasketRepository>();
+
+builder.Services.
+    AddGrpcClient
+    <DiscountProtoService.DiscountProtoServiceClient>
+    (options => options.Address = new Uri(builder.Configuration["GrpcSettings:DisscountUrl"]!))
+    .ConfigurePrimaryHttpMessageHandler(() =>
+{
+    var handler = new HttpClientHandler
+    {
+        ServerCertificateCustomValidationCallback =
+        HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
+    };
+
+    return handler;
+});;
 var app = builder.Build();
+
 
 // --- 2. Enable Swagger Middleware (typically in Development) ---
 if (app.Environment.IsDevelopment())
@@ -59,6 +76,7 @@ if (app.Environment.IsDevelopment())
         c.SwaggerEndpoint("/swagger/v2/swagger.json", "basket.API v2");
     });
 }
+
 
 app.UseExceptionHandler(opts => { });
 app.MapCarter();

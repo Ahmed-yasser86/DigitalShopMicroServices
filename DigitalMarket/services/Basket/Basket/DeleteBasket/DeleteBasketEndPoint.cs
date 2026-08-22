@@ -8,7 +8,7 @@ namespace Basket.API.Basket.DeleteBasket
 
     public class DeleteBasketEndPoint : ICarterModule
     {
-        public async void AddRoutes(IEndpointRouteBuilder app)
+        public void AddRoutes(IEndpointRouteBuilder app)
         {
 
             app.MapDelete("/basket/{userName}",async(string userName,ISender sender) =>
