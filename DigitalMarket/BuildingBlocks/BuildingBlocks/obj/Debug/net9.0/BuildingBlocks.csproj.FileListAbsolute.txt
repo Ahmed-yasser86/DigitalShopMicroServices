@@ -6,8 +6,8 @@ C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.sourcelink.json
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
 C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
-C:\Users\DELL\eshop\DigitalMarket\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.sourcelink.json

@@ -3,12 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\eshop\\DigitalMarket\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\custmerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\custmerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\valueobject\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueobject\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CBF71-D1A1-6332-2E48-B7E2DBC30EA5}|services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CBF71-D1A1-6332-2E48-B7E2DBC30EA5}|services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CBF71-D1A1-6332-2E48-B7E2DBC30EA5}|services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CBF71-D1A1-6332-2E48-B7E2DBC30EA5}|services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6331C5-72A6-DEFA-2B59-5F115C5D739E}|services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6331C5-72A6-DEFA-2B59-5F115C5D739E}|services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD615-B886-71E4-A850-80B639B79D24}|services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AD615-B886-71E4-A850-80B639B79D24}|services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6331C5-72A6-DEFA-2B59-5F115C5D739E}|services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6331C5-72A6-DEFA-2B59-5F115C5D739E}|services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{066FDE78-4996-BE3D-BC3E-8EB4D9C32329}|services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AD615-B886-71E4-A850-80B639B79D24}|services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E8AD615-B886-71E4-A850-80B639B79D24}|services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\dell\\eshop\\digitalmarket\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|solutionrelative:services\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\basket\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|solutionrelative:services\\basket\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41C05705-0DD3-92F4-EEBD-A271CCE04F48}|services\\Discount.GRPC\\Discount.Grpc.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C05705-0DD3-92F4-EEBD-A271CCE04F48}|services\\Discount.GRPC\\Discount.Grpc.csproj|solutionrelative:services\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09501B-B2C6-4837-A6E7-AF79B89BAD2B}|services\\catalog\\catalog.API\\catalog.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE09501B-B2C6-4837-A6E7-AF79B89BAD2B}|services\\catalog\\catalog.API\\catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\dell\\eshop\\digitalmarket\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -19,8 +151,8 @@
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\dell\\eshop\\digitalmarket\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\basket\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|solutionrelative:services\\basket\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64CFF7FD-6EC5-9811-DAFE-64DFAD4BF905}|services\\Basket\\Basket.API.csproj|c:\\users\\dell\\eshop\\digitalmarket\\services\\basket\\basket\\storebasket\\storebasktendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,6 +183,26 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\Discount.GRPC\\obj\\Debug\\net9.0\\Protos\\DiscountGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\Ordering.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,7 +212,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,31 +224,426 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "services\\Basket\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\GlobalUsing.cs",
-              "RelativeToolTip": "services\\Basket\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\GlobalUsing.cs*",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\GlobalUsing.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:42:57.435Z"
+              "WhenOpened": "2026-08-27T00:48:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:45:31.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-08-21T16:19:51.681Z"
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:44:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:32:25.871Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:23:49.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:33:33.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\Address.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\Address.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\Address.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\Address.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:37:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemId.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderItemId.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderItemId.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderItemId.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderItemId.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:56:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderId.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderId.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderId.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderId.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderId.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:35:10.992Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:28:05.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustmerId.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\CustmerId.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\CustmerId.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\CustmerId.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\CustmerId.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:39:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderName.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderName.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderName.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\OrderName.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\OrderName.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:44:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\Payment.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\Payment.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\Payment.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:39:16.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductId.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\ProductId.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\ValueObject\\ProductId.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\ValueObject\\ProductId.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\ValueObject\\ProductId.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:36:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Exception\\Exception.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Exception\\Exception.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Exception\\Exception.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Exception\\Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T06:32:33.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T03:49:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:51:47.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:47:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:40:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:39:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:35:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:08:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:08:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:03:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:02:18.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:01:58.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ordering.InfraStructure.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj",
+              "RelativeToolTip": "services\\Ordering\\Ordering.InfraStructure\\Ordering.InfraStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T01:00:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Ordering.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T01:00:33.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ordering.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeDocumentMoniker": "services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeToolTip": "services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T01:00:27.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "services\\Ordering.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T23:52:03.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering.API\\Ordering.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T00:33:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "RelativeToolTip": "services\\Ordering.API\\Ordering.InfraStructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T00:33:07.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ordering.API.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs",
+              "RelativeToolTip": "services\\Ordering.API\\obj\\Debug\\net9.0\\Ordering.API.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T00:41:42.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "services\\Ordering.API\\Ordering.InfraStructure\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T00:46:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
@@ -108,32 +655,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-08-21T16:05:17.315Z"
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "services\\Ordering.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T17:02:38.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "services\\Ordering.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Ordering.API\\appsettings.json",
+              "RelativeToolTip": "services\\Ordering.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T17:02:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\catalog\\catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\catalog\\catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\catalog\\catalog.API\\Program.cs",
+              "RelativeToolTip": "services\\catalog\\catalog.API\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T01:27:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-08-21T16:19:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Program.cs",
               "RelativeDocumentMoniker": "services\\Basket\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Program.cs",
               "RelativeToolTip": "services\\Basket\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T10:09:37.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T10:09:37.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 35,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwEcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-08-21T16:05:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Discount.GRPC\\Program.cs",
+              "RelativeDocumentMoniker": "services\\Discount.GRPC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Discount.GRPC\\Program.cs",
+              "RelativeToolTip": "services\\Discount.GRPC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T02:09:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "StoreBasktEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Basket\\StoreBasket\\StoreBasktEndPoint.cs",
               "RelativeDocumentMoniker": "services\\Basket\\Basket\\StoreBasket\\StoreBasktEndPoint.cs",
@@ -145,7 +751,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 37,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "services\\Basket\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\GlobalUsing.cs",
+              "RelativeToolTip": "services\\Basket\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:42:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "GetBasketEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Basket\\GetBasket\\GetBasketEndPoint.cs",
               "RelativeDocumentMoniker": "services\\Basket\\Basket\\GetBasket\\GetBasketEndPoint.cs",
@@ -157,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 39,
               "Title": "StoreBasketCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
               "RelativeDocumentMoniker": "services\\Basket\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
@@ -169,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 41,
               "Title": "DeleteBasketEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\Basket\\Basket\\DeleteBasket\\DeleteBasketEndPoint.cs",
               "RelativeDocumentMoniker": "services\\Basket\\Basket\\DeleteBasket\\DeleteBasketEndPoint.cs",
@@ -181,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\catalog\\catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "services\\catalog\\catalog.API\\Dockerfile",
@@ -193,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 43,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -205,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 45,
               "Title": "DiscountGrpc.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\Discount.GRPC\\obj\\Debug\\net9.0\\Protos\\DiscountGrpc.cs",
               "RelativeDocumentMoniker": "..\\Discount.GRPC\\obj\\Debug\\net9.0\\Protos\\DiscountGrpc.cs",
@@ -216,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 44,
               "Title": "catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\eshop\\DigitalMarket\\services\\catalog\\catalog.API\\catalog.API.csproj",
               "RelativeDocumentMoniker": "services\\catalog\\catalog.API\\catalog.API.csproj",
@@ -228,11 +846,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

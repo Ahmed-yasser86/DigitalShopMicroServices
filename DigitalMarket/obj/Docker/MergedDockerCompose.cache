@@ -1,18 +1,86 @@
 name: dockercompose16664578200368897668
 services:
+  Basketgdb:
+    container_name: Basketgdb
+    environment:
+      POSTGRES_DB: BasketDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:16-alpine
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5443"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_Basket
+        target: /var/lib/postgresql/data
+        volume: {}
+  basket.api:
+    build:
+      context: C:\Users\DELL\eshop\DigitalMarket
+      dockerfile: services/Basket/Dockerfile
+    depends_on:
+      Basketgdb:
+        condition: service_started
+        required: true
+      discount.grpc:
+        condition: service_started
+        required: true
+      distributechache:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__Database: Server=Basketgdb;Port=5432;Database=BasketDb;User Id=postgres;Password=postgres;Include Error Detail=true
+      ConnectionStrings__Redis: distributechache:6379
+      GrpcSettings__DisscountUrl: http://discount.grpc:8080
+    image: basketapi:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6010"
+        protocol: tcp
+  catalog.api:
+    build:
+      context: C:\Users\DELL\eshop\DigitalMarket
+      dockerfile: services/catalog/catalog.API/Dockerfile
+    depends_on:
+      catalogdb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__Database: Server=catalogdb;Port=5432;Database=CatalogDb;User Id=postgres;Password=postgres;Include Error Detail=true
+    image: catalog.api:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6000"
+        protocol: tcp
   catalogdb:
     container_name: catalogdb
     environment:
       POSTGRES_DB: CatalogDb
       POSTGRES_PASSWORD: postgres
       POSTGRES_USER: postgres
-    image: postgres
+    image: postgres:16-alpine
     networks:
       default: null
     ports:
       - mode: ingress
         target: 5432
-        published: "5432"
+        published: "5433"
         protocol: tcp
     restart: always
     volumes:
@@ -20,9 +88,38 @@ services:
         source: postgres_catalog
         target: /var/lib/postgresql/data
         volume: {}
+  discount.grpc:
+    build:
+      context: C:\Users\DELL\eshop\DigitalMarket
+      dockerfile: services/Discount.GRPC/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__Database: Data Source=discountdb
+    image: discountgrpc:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6002"
+        protocol: tcp
+  distributechache:
+    container_name: distributedcache
+    image: redis
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: always
 networks:
   default:
     name: dockercompose16664578200368897668_default
 volumes:
+  postgres_Basket:
+    name: dockercompose16664578200368897668_postgres_Basket
   postgres_catalog:
     name: dockercompose16664578200368897668_postgres_catalog
