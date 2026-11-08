@@ -9,7 +9,7 @@ namespace Ordering.Domain.Models
     {
         private readonly List<OrderItem> _orderItems = new();
 
-        public IReadOnlyList<OrderItem> Items => _orderItems.AsReadOnly();
+        public IReadOnlyList<OrderItem> OrderItems => _orderItems.AsReadOnly();
 
         public CustomerId CustomerId { get; private set; } = default!;
         public OrderName OrderName { get; private set; } = default!;
@@ -19,7 +19,7 @@ namespace Ordering.Domain.Models
         public OrderStatus Status { get; private set; } = OrderStatus.Pending;
 
         public decimal TotalPrice =>
-            Items.Sum(item => item.Price * item.Quantity);
+            OrderItems.Sum(item => item.Price * item.Quantity);
 
 
 

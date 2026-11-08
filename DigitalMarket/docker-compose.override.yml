@@ -12,6 +12,17 @@ services:
     volumes:
       - postgres_catalog:/var/lib/postgresql/data
 
+
+  orderdb:
+    container_name: orderdb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Ahmed$123456
+    restart: always
+    ports:
+      - "1433:1433"
+
+
   Basketgdb:
     image: postgres:16-alpine
     container_name: Basketgdb

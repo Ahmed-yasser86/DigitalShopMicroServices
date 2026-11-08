@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Ordering.Domain.ValueObject
 {
+
+    [ComplexType]
     public record Address
     {
         public string FirstName { get; } = default!;

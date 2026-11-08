@@ -1,0 +1,6 @@
+## Visual Studio / IDE caches
+.vs/
+
+## Build Outputs
+[Bb]in/
+[Oo]bj/
