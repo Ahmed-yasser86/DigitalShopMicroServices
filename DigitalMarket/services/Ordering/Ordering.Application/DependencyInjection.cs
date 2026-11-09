@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 
 
-namespace OrderingApplication.Application
+namespace Ordering.Application
 {
     public static class DependencyInjection
     {

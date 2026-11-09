@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Ordering.Application.Data;
 using Ordering.InfraStructure.Data;
 using Ordering.InfraStructure.Data.Intercepteors;
 using System;
@@ -23,11 +24,13 @@ namespace OrderingInfra.Application
             Services.AddScoped<ISaveChangesInterceptor,AuditableEntityInterceptore>();
             Services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventsInterceptors>();
 
+            Services.AddScoped<IApplicationDbContext, ApplicationDBContext>();
             Services.AddDbContext<ApplicationDBContext>((sp , options) => {
                 options.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
                 options.UseSqlServer(connectionString);
                 });
 
+            
 
             return Services;
         }

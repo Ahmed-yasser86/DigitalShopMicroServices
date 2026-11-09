@@ -1,17 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Ordering.Application.Data;
+using Ordering.Domain.Models;
+using Ordering.Domain.ValueObject;
+using OrderingApplication;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using OrderingApplication;
-using Ordering.Domain.ValueObject;
-using Ordering.Domain.Models;
-using System.Reflection;
 
-namespace Ordering.InfraStructure.Data
-{
-    public class ApplicationDBContext : DbContext
+    public class ApplicationDBContext : DbContext , IApplicationDbContext
     {
 
         public ApplicationDBContext
@@ -31,9 +30,9 @@ namespace Ordering.InfraStructure.Data
 
         public DbSet<OrderItem> orderItems => Set<OrderItem>();
 
+    public DbSet<OrderItem> OrderItems => throw new NotImplementedException();
 
-
-        protected override void OnModelCreating(ModelBuilder builder)
+    protected override void OnModelCreating(ModelBuilder builder)
         {
 
             builder.ApplyConfigurationsFromAssembly
@@ -43,4 +42,4 @@ namespace Ordering.InfraStructure.Data
         }
 
     }
-}
+
