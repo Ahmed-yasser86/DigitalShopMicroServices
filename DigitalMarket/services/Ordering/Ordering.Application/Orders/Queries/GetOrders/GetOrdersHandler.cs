@@ -11,8 +11,7 @@ public class GetOrdersHandler(IApplicationDbContext dbContext)
 {
     public async Task<GetOrdersResult> Handle(GetOrdersQuery query, CancellationToken cancellationToken)
     {
-        // get orders with pagination
-        // return result
+        
 
         var pageIndex = query.PaginationRequest.PageIndex;
         var pageSize = query.PaginationRequest.PageSize;

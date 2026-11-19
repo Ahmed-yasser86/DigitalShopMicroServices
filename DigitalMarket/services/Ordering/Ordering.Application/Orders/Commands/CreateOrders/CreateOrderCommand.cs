@@ -15,7 +15,7 @@ namespace Ordering.Application.Orders.Commands.CreateOrders
         {
             RuleFor(x=> x.orderDto.OrderItems).NotEmpty().WithMessage("Order Items Could Not Be Empty");
             RuleFor(x=>x.orderDto.CustomerId).NotEmpty().WithMessage("Customer Id Could Not Be Empty");
-            RuleFor(x=>x.orderDto.OrderName).NotEmpty().WithMessage("Order Name Is Required")
+            RuleFor(x => x.orderDto.OrderName).NotEmpty().WithMessage("Order Name Is Required");
         }
 
     
