@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Ordering.InfraStructure.Data;
 
 #nullable disable
 
@@ -237,7 +236,7 @@ namespace Ordering.InfraStructure.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("orderItems");
+                    b.ToTable("OrderItem");
                 });
 
             modelBuilder.Entity("Ordering.Domain.Models.Product", b =>

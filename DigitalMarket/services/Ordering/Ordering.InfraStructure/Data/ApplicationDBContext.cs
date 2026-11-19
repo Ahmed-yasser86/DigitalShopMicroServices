@@ -2,7 +2,6 @@
 using Ordering.Application.Data;
 using Ordering.Domain.Models;
 using Ordering.Domain.ValueObject;
-using OrderingApplication;
 using System;
 using System.Collections.Generic;
 using System.Linq;
